@@ -1,0 +1,9 @@
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\bin\Debug\ConversorAlfabeto.exe.config
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\bin\Debug\ConversorAlfabeto.exe
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\bin\Debug\ConversorAlfabeto.pdb
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.exe
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.pdb
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.Form1.resources
+C:\Users\Marcelo\Desktop\Edson\ConversorAlfabeto\ConversorAlfabeto\obj\Debug\ConversorAlfabeto.csprojResolveAssemblyReference.cache
